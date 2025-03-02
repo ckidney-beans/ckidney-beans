@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome ##
+
+This is my corner of GitHub.  Recently I have just reignited an interest in programming and networking, and have been learning about systems such as Proxmox, Docker, Linux, Vim, and others, with a goal to get into ethical hacking and coding, likely in python.
+
+Feel free to reach out with you have any comments, questions, or just friendly advice in this areas.👋
 
 <!--
 **ckidney-beans/ckidney-beans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
