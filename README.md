@@ -1,6 +1,8 @@
 ## Welcome ##
 
-This is my corner of GitHub.  Recently I have just reignited an interest in programming and networking, and have been learning about systems such as Proxmox, Docker, Linux, Vim, and others, with a goal to get into ethical hacking and coding, likely in python.
+This is my corner of GitHub.  Recently I have just reignited an interest in programming and networking, and have been learning about systems such as Proxmox, Docker, Linux, Vim, and others, with a goal to get into ethical hacking and coding, likely in python.  I have also taken an interest in homelabs, self hosting,
+
+Other areas of my interests include 3D printing and auto racing, especially Formula 1, and road endurance.  I am also a novice sim racer.
 
 Feel free to reach out with you have any comments, questions, or just friendly advice in this areas.👋
 
